@@ -1,0 +1,14 @@
+List of features
+
+* Save/Open/Saveas - File operations
+* Clear/Undo/Redo - Canvas operations
+* FreeDraw/SnapDraw - Draw operations
+* CircleDraw/SquareDraw - Draw operations
+* Eraser - Canvas operation
+* Selection/Move Functions - Move operations
+* Clear draw (removes mouse functions - Draw operations
+* Add text - Text operations
+* Dropper - Color selection operations
+* Slider - Line width operations
+* Color Selection Box - Color selection operations
+* Smart close - Exit operations

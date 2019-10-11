@@ -1,0 +1,53 @@
+Release Notes
+
+Date: 10/9/2017 Version: Paint v1.3
+	INCLUDES:
+	* Allows user to add text to the image 
+	* Allows user to select a color from the image (dropper tool)
+	* Redo is now fully working along with undo
+
+Date: 10/4/2017 Version: Paint v1.2
+
+	INCLUDES:
+	* Allows user to undo any number of changes to the canvas
+	* Opens a blank canvas on first start up
+	* Allows user to erase drawn lines
+	* Allows user to draw both a square or circle
+	* Allows user to clear any drawn lines on canvas
+	* Allows user to cut a piece of the image out and move it
+	
+	COMING SOON:
+	* Adding text to the image
+	* Using a dropper tool to select a color from the image
+
+Date: 9/15/2017 Version: Paint v1.1
+	
+	INCLUDES:
+	* Allows user to free draw a line
+	* Includes a smart close option
+	* Includes a line selection chooser
+	* Includes a line color chooser
+	* Includes a line width selector
+	
+	COMING SOON:
+	* Opens a blank cavnas to draw and save on open
+	* Menu drop down includes redo/undo/clear functions
+	* Draw a square or circle
+	* User friendly tool bar
+	
+
+
+Date: 9/8/2017 Version: Paint v1.0
+	
+	INCLUDES:
+	* Opens Image with File Selection
+	* File seleciton is limited by file type
+	* Contains menu bar
+	* Save/open/saveas functionality
+	* Save/open/saveas shortcuts
+
+	COMING SOON:
+	* Draw a line
+	* Show color chooser
+	* Line color selection
+	* Smart quit
